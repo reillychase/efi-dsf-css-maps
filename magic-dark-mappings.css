@@ -1,4 +1,8 @@
 /* COLORS */
+.product-customization-wrapper .smartcanvas-tabs-container .smartcanvas-tabs-nav a:hover {
+    background: lightgray;
+    color: #808080;
+}
 .product-customization-wrapper .smartcanvas-tabs-container .smartcanvas-tabs-nav .arrow-up-preview {
     border-bottom: 5px solid #03a9f4;
 }
