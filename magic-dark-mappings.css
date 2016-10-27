@@ -1,4 +1,7 @@
 /* COLORS */
+.product-customization-wrapper .smartcanvas-tabs-container .smartcanvas-tabs-nav .arrow-up-preview {
+    border-bottom: 5px solid #03a9f4;
+}
 .show-more-product-container:hover a, .show-more-product-container:hover span {
     color: #03a9f4;
 }
