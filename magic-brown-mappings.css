@@ -26,24 +26,14 @@ a:hover {
 
 .checkout-page .checkout-container .checkout-shipment .shipping-misc .add-another-recipent .add-another-recipent-link:hover {
 	background-color: #03a9f4;
-	-webkit-transition: all .2s ease-in-out;
-    -o-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
 }
 
 .checkout-page .checkout-container .checkout-shipment .shipping-address-readonly a.edit {
-    display: block;
-    margin: 5px 0;
-    font-size: 11px;
-    text-decoration: underline;
     color: #03a9f4;
 }
 
 .btn:hover, .btn-myaccount {
 	background-color: #5e5e5e;
-	-webkit-transition: all .2s ease-in-out;
-    -o-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
 }
 
 .modal .modal-footer .OK-button {
@@ -52,9 +42,6 @@ a:hover {
 
 .btn:hover, .btn-myaccount:hover {
 	background-color: #5e5e5e;
-	-webkit-transition: all .2s ease-in-out;
-    -o-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
 }
 
 .checkout-page .checkout-container .checkout-shipment .shipping-address-edit a.add-from-address-book {
@@ -177,9 +164,6 @@ button {
 
 .product-customization-wrapper .product-customization-footer .button-container .add-to-cart-button:hover {
 	background-color: #5e5e5e;
-	-webkit-transition: all .2s ease-in-out;
-    -o-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
 }
 
 .product-customization-wrapper .product-customization-filespanel {
@@ -245,7 +229,6 @@ button {
 .product-customization-wrapper .smartcanvas-right-top-panel .btnselected:hover {
     color: #03a9f4;
 }
-
 
 .product-customization-wrapper .expand-collpase-panel {
     background-color:  #03a9f4;
