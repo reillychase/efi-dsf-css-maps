@@ -9,4 +9,4 @@ The goal of this project is to provide mappings of all the CSS classes where, fo
 >**Always apply your CSS customizations by adding them to the end of the storefront CSS file!**
 
 
-The customizations at the bottom will automatically override the classes above them. Never edit the original CSS classes directly. Always Save your CSS customizations to a file outside of DSF. This way when DSF updates the master CSS file, simply allow it (no need to mess with their terrible CSS code merging tool), then add your styles back to the bottom of the master CSS again and everything will be fine.
+The customizations at the bottom will automatically override the classes above them. Never edit the original CSS classes directly. Always save your CSS customizations to a file outside of DSF. This way when DSF updates the master CSS file, simply allow it (no need to mess with their terrible CSS code merging tool), then add your styles back to the bottom of the master CSS again and everything will be fine.
