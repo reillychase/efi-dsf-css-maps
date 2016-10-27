@@ -357,6 +357,17 @@ display: none;
     margin-bottom: 0px;
     display: none;
 }
+.category-actions {
+    display: none;
+}
+
+.category-description {
+    display: none;
+}
+
+.category-actions .btn {
+    display: none;
+}
 
 /* FIXING STUFF */
 .logo img {
@@ -427,7 +438,6 @@ display: none;
 }
 
 .product-item {
-    text-transform: none;
     text-align: center;
 }
 
@@ -445,6 +455,10 @@ display: none;
 	width: 290px;
 }
 
+.product-details-page-image img {
+    width: auto;
+}
+
 .product-details-page-sku {
 display: none;
 }
@@ -455,4 +469,20 @@ display: none;
 
 .product-details-page .modalContent {
     height: auto;
+}
+
+.product-details-page-image img {
+    width: auto;
+}
+
+.category-image, .product-image {
+    width: 100%;
+}
+
+.category-image {
+    height: 200px;
+}
+
+.category-item {
+    text-align:center;
 }
