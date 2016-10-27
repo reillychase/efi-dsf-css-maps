@@ -1,4 +1,7 @@
 /* COLORS */
+.show-more-product-container:hover a, .show-more-product-container:hover span {
+    color: #03a9f4;
+}
 .wrapper-other .login-single .login-panel .login-register .register-link {
     color: #03a9f4;
 }
