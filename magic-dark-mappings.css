@@ -1,6 +1,21 @@
 /* COLORS */
-.modal .modal-footer .OK-button:hover {
+.product-administration a:hover {
   background: #03a9f4;
+}
+.pager-control ul li a {
+    color: #03a9f4;
+}
+button:hover {
+  background: #5e5e5e;
+}
+.checkout-page .checkout-container .checkout-order-details .checkout-order-info h3, .checkout-page .checkout-container .checkout-order-details .checkout-order-info p {
+    color: #03a9f4;
+}
+.checkout-page .checkout-container .checkout-order-details .checkout-order-info .highlight {
+    color: #03a9f4;
+}
+.modal .modal-footer .OK-button:hover {
+  background: #5e5e5e;
 }
 .cart-floating-actions .cart-checkout-button:hover {
   background: #03a9f4;
