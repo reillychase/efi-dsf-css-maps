@@ -1,39 +1,4 @@
 /* COLORS */
-.modal .modal-footer .OK-button:hover {
-  background: #03a9f4;
-}
-.cart-floating-actions .cart-checkout-button:hover {
-  background: #03a9f4;
-}
-.cart-page .cart-container .product-align a {
-    color: #03a9f4;
-}
-.product-items-container .product-list-view .qty-remove .icon-cross,
-.category-page-products .product-list-view .qty-remove .icon-cross,
-.search-results .product-list-view .qty-remove .icon-cross {
-  padding-left: 5px;
-  font-size: 8px;
-  color: #03a9f4;
-}
-.product-items-container .featured-product-fliter a.active,
-.category-page-products .featured-product-fliter a.active,
-.search-results .featured-product-fliter a.active {
-  background: #03a9f4;
-}
-.facetted-filter-section-container {
-  border: 2px solid #03a9f4;
-}
-.facetted-filter-section-container .facetted-filter-tabout {
-  background-color: #03a9f4;
-}
-.category .dropdown-menu .category-list-more li a:hover,
-.category .dropdown-menu .category-list-less li a:hover {
-  color: #03a9f4;
-}
-.category .dropdown-menu .category-list-more li a.selected,
-.category .dropdown-menu .category-list-less li a.selected {
-  color: #03a9f4;
-}
 .product-customization-wrapper .smartcanvas-tabs-container .smartcanvas-tabs-nav a:hover {
     background: lightgray;
     color: #808080;
@@ -531,5 +496,3 @@ display: none;
 .category-item {
     text-align:center;
 }
-
-
